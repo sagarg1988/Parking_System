@@ -2,9 +2,9 @@ import boto3
 from botocore.client import Config
 
 # Let's use Amazon S3
-ACCESS_KEY_ID = 'AKIAYSNPXOSF4LTFMO3U'
-ACCESS_SECRET_KEY = '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'
-BUCKET_NAME = 'sagarexplores3'
+ACCESS_KEY_ID = ''
+ACCESS_SECRET_KEY = ''
+BUCKET_NAME = ''
 
 data = open('urls.py', 'rb')
 
